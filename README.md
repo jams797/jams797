@@ -11,13 +11,13 @@
 
 <table>
   <tr>
-    <td border="none" width="50%">
+    <td border="none" width="50%" style="border: none;">
       <ul>
         <li> 📚 Sigo aprendiendo.. </li>
         <li> 🥅 Objetivos: Mejorar en Flutter, Node y aprender nuevos lenguajes </li>
         <li> 👨🏻‍💻 Desarrollador senior </li>
     </td>
-    <td border="none" width="50%">
+    <td border="none" width="50%" style="border: none;">
       <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
     </td>
   </tr>
@@ -38,7 +38,7 @@
   <!--- stats (start) -->
   <table align="center">
     <tr border="none">
-      <td border="none" width="50%" align="center">
+      <td border="none" width="50%" align="center" style="border: none;">
         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jams797&theme=dark&show_icons=true&count_private=true" />
         <br></br>
         <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jams797&theme=dark&hide_border=false" />
@@ -50,7 +50,7 @@
           </div>
         <!--- trophy (start) -->
       </td>
-      <td border="none" width="50%" align="center">
+      <td border="none" width="50%" align="center" style="border: none;">
         <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jams797&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
       </td>
     </tr>
